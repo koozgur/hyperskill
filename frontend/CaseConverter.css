@@ -1,0 +1,19 @@
+#title{
+    padding:5px;
+    margin:10px;
+    font-size: 20px;
+}
+body, section, #title{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+body{
+    flex-flow: column;
+}
+section{
+    margin:10px;
+}
+title{
+    font-size: 2rem;
+}
